@@ -1,0 +1,1 @@
+{"rules": [{"action": "allow", "source": "0.0.0.0/0", "ports": "22", "description": "temporary review example"}, {"action": "deny", "source": "any", "ports": "any", "description": "default deny"}]}
